@@ -1,4 +1,6 @@
 
+#RESPOSTA 5
+
 #input do usuário
 texto = input("digite um texto qualquer: ")
 texto_invertido = ""
