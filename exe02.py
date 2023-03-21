@@ -1,4 +1,6 @@
 
+#RESPOSTA 2
+
 #infomar um número
 numero_informado = int(input("informe um número: "))
 

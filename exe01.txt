@@ -1,0 +1,19 @@
+
+RESPOSTA 1
+
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto (K < INDICE) faca
+{
+
+  K = k + 1
+  SOMA = soma + K
+}
+
+imprimir(SOMA);
+
+-----SAÍDA-----
+
+ 91
+
+---------------
